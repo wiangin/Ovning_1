@@ -10,3 +10,5 @@ console.log(result)
 const word = "Hello";
 const word2 = "World";
 console.log(word + " " + word2);
+
+const word3 = "from feature branch";
