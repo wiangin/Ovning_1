@@ -4,4 +4,7 @@ const add = () => {
     return 2 +3;
 }
 
+const result = add();
+console.log(result)
+
 const word = "Hello";
