@@ -8,3 +8,4 @@ const result = add();
 console.log(result)
 
 const word = "Hello";
+const word2 = "World";
