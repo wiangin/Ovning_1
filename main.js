@@ -9,3 +9,4 @@ console.log(result)
 
 const word = "Hello";
 const word2 = "World";
+console.log(word + " " + word2);
