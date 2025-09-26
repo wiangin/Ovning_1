@@ -12,7 +12,6 @@ const word2 = "World";
 console.log(word + " " + word2);
 
 const word3 = "from feature branch";
-
 const multiply = (a, b) => {
     return a * b;
 }
